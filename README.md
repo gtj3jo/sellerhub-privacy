@@ -38,7 +38,7 @@ Instagram：@littleminer_crystal
 
 Last updated: October 5, 2026
 
-SellerHub ("the App") is an internal tool built and used solely by **水晶龍藝品 (Crystal Dragon Crafts)** to manage our own Instagram professional account (@littleminer_crystal) and Facebook Page: product posts, comments and messages. The App is not offered to other businesses or the public.
+SellerHub ("the App") is an internal tool built and used solely by **水晶龍藝品** to manage our own Instagram professional account (@littleminer_crystal) and Facebook Page: product posts, comments and messages. The App is not offered to other businesses or the public.
 
 ## Data we access through Meta APIs
 
@@ -64,6 +64,6 @@ Comment and message data is kept only as long as needed to complete orders and a
 
 ## Contact
 
-水晶龍藝品 (Crystal Dragon Crafts)  
+水晶龍藝品  
 Email: gtj3jo@gmail.com  
 Instagram: @littleminer_crystal
